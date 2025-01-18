@@ -119,7 +119,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center space-x-4">
             <Button
               variant="primary"
-              className="bg-orange-500 hover:bg-black hover:text-white rounded-full p-4"
+              className="bg-orange-500 hover:bg-black hover:text-white rounded-full p-4 w-36 h-12"
             >
               Donate Now
             </Button>
